@@ -4,17 +4,11 @@ padding:0;
 }
 
 .logo img{
-height:88.74px;
-width:109.14px;
-}
-
-.navbar-header{
-height:100px;
+	height:10vh;
 }
 
 #head{
-    height:100vh;
-   
+	height:100vh;
 }
 
 video#bgvid {
