@@ -40,8 +40,8 @@
 					<li class="dropdown">
 						<a href="formation.html" class="dropdown-toggle" data-toggle="dropdown">Formation<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li class="active"><a href="sidebar-right.html">Programme</a></li>
-							<li><a href="sidebar-left.html">Equipement</a></li>
+							<li><a href="sidebar-right.html">Programme</a></li>
+							<li><a href="sidebar-left.html">Équipements</a></li>
 							<li><a href="sidebar-left.html">Enseignants</a></li>
 							<li><a href="sidebar-left.html">Admission</a></li>
 							<li><a href="sidebar-left.html">Débouchés</a></li>
