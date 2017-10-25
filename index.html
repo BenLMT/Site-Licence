@@ -37,16 +37,19 @@
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
 					<li class="active"><a href="#">Accueil</a></li>
-					<li><a href="about.html">Formation</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="formation.html" class="dropdown-toggle" data-toggle="dropdown">Formation<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="sidebar-left.html">Left Sidebar</a></li>
-							<li class="active"><a href="sidebar-right.html">Right Sidebar</a></li>
+							<li class="active"><a href="sidebar-right.html">Programme</a></li>
+							<li><a href="sidebar-left.html">Equipement</a></li>
+							<li><a href="sidebar-left.html">Enseignants</a></li>
+							<li><a href="sidebar-left.html">Admission</a></li>
+							<li><a href="sidebar-left.html">Débouchés</a></li>
 						</ul>
 					</li>
+					<li><a href="gallerie.html">Contact</a></li>
 					<li><a href="contact.html">Contact</a></li>
-					<li><a class="btn" href="signin.html">SIGN IN / SIGN UP</a></li>
+					<li><a class="btn" href="postuler.html">POSTULER</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div>
